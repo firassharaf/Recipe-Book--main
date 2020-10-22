@@ -1,3 +1,3 @@
-# Recipes
+# The Images folder
 
-This is the folder in which to create your recipe HTML files.
+In most HTML projects, a common project structure will include a folder called `img`, `images`, `assets` or otherwise to contain images for the project.
